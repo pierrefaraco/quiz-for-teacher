@@ -15,4 +15,5 @@ The app lets a teacher (the "professor") create courses and quizzes, and lets st
 
 - **Backend**: Java, Spring MVC, Spring Security, Hibernate/JPA, MySQL, exposed as a REST API + WebSocket endpoint.
 - **Frontend**: AngularJS single-page app (separate views/routes for the professor and the auditor).
-- Built with Maven, packaged as a WAR for deployment on a servlet container (e.g. Tomcat). 
+- Built with Maven, packaged as a WAR for deployment on a servlet container (e.g. Tomcat).    
+test
